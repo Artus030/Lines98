@@ -1,2 +1,2 @@
 # Lines98
-Just a freetime project
+Just a free time project
